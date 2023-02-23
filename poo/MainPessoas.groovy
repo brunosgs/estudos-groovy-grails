@@ -1,13 +1,3 @@
-class Pessoa implements Serializable {
-    String nome
-    String sobreNome
-    boolean ativa
-
-    String getNome() {
-        "O nome é $nome"
-    }
-}
-
 // O métodos getters e setters são criados automaticamente pelo Groovy
 Pessoa pessoa = new Pessoa()
 pessoa.setNome("Bruno")
