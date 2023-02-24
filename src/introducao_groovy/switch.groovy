@@ -1,3 +1,5 @@
+package introducao_groovy
+
 def valor = 4
 
 /* OBS > Durante a comparação, ao chegar nesta opção, 

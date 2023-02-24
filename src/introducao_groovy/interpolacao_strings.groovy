@@ -1,4 +1,5 @@
-// Interpolação
+package introducao_groovy
+// Interpolaï¿½ï¿½o
 sufixo = "Groovy"
 fraseCompletaInterpolada = "Programando em ${sufixo}"
 
@@ -8,9 +9,9 @@ b = 5
 expressaoInterpolada = "${a} + ${b} = ${a + b}"
 
 c = 3
-texto = "Qual o valor de c? É $c"
+texto = "Qual o valor de c? ï¿½ $c"
 
-texto = """Olá mundo!
+texto = """Olï¿½ mundo!
 Estou desenvolvendo com Groovy.
 E me encantando com a linguagem. :)"""
 

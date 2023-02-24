@@ -1,4 +1,6 @@
-def valor = 0 
+package introducao_groovy
+
+def valor = 0
 
 while(valor < 10) {
     println "WHILE > $valor"

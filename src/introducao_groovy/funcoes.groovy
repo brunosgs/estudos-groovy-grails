@@ -1,3 +1,4 @@
+package introducao_groovy
 /*
     OBS: A instrução return é opcional, o retorno de uma função pode ser o valor 
     resultante da execução da última linha do bloco.

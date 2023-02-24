@@ -1,3 +1,5 @@
+package poo
+
 class Pessoa implements Serializable {
     String nome
     String sobreNome

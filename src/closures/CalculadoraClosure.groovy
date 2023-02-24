@@ -1,3 +1,5 @@
+package closures
+
 def soma = { x, y ->
     x + y
 }

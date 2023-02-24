@@ -1,3 +1,4 @@
+package closures
 /*
     - A closure é uma função;
     - Ela sempre tem um paramentro implícito chamado de 'it'. Mas é possível trocar o nome dele.

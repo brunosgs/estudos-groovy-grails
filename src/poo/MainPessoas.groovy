@@ -1,3 +1,4 @@
+package poo
 // O métodos getters e setters são criados automaticamente pelo Groovy
 Pessoa pessoa = new Pessoa()
 pessoa.setNome("Bruno")

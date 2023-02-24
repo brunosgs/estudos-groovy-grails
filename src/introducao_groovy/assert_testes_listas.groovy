@@ -1,10 +1,12 @@
+package introducao_groovy
+
 def lista = new ArrayList()
 
 lista.add("Valor")
 
-assert lista // teste verdadeiro: lista não esta vazia
+assert lista // teste verdadeiro: lista nï¿½o esta vazia
 lista.clear()
-//assert lista // teste falha: a lista é vazia
+//assert lista // teste falha: a lista ï¿½ vazia
 
 
 def listaIterator = new ArrayList()
