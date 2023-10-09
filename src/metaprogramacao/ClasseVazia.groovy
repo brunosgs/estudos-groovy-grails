@@ -1,0 +1,4 @@
+package metaprogramacao
+
+class ClasseVazia {
+}
