@@ -1,7 +1,4 @@
-package closures
-
-import closures.escopo.Animal
-import closures.escopo.Pessoa
+package closures.escopo
 
 def pessoa = new Pessoa(nome: "Bruno")
 def animal = new Animal(nome: "Cão")
