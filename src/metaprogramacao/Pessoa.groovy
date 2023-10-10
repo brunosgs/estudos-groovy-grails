@@ -6,4 +6,8 @@ class Pessoa {
     void digaOi() {
         println "Olá, sou $nome"
     }
+
+    void imprima() {
+        println "Meu nome é $nome"
+    }
 }
